@@ -1,4 +1,9 @@
-![something](https://raw.githubusercontent.com/BMilan09/BMilan09/main/git.png)
+![something]()
+
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/BMilan09/BMilan09/main/git.png">
+</p>
+
 
 <h1 align="center">Hi, I'm Milan</h1>
 <h3 align="center">A Student from Slovakia</h3>
