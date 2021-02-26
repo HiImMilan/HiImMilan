@@ -1,4 +1,4 @@
-<img scr="git.png" align="center">
+<img scr="https://raw.githubusercontent.com/BMilan09/BMilan09/main/git.png" align="center">
 
 <h1 align="center">Hi, I'm Milan</h1>
 <h3 align="center">A Student from Slovakia</h3>
