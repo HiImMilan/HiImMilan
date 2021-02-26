@@ -1,7 +1,5 @@
-![something]()
-
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/BMilan09/BMilan09/main/git.png">
+  <img src="https://raw.githubusercontent.com/BMilan09/BMilan09/main/git.png">
 </p>
 
 
